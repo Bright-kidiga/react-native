@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
     
     
   },
-  image: {
+  image:{
     
     flex: 1,
     justifyContent: "center"
